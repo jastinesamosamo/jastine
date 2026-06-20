@@ -1,2 +1,1 @@
-# jastine
-for view
+# jastinesamo
